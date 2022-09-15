@@ -1,0 +1,12 @@
+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
+
+Setting up token (optional)
+git remote set-url origin https://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@github.com/bjames236/CIT17.git
+
+Add files to your local repository
+
+Upload it to your repository by using this commands:
+git add . 
+git commit -m "first upload"
+git push
+
